@@ -1,1 +1,47 @@
-{"storymap": {"attribution": "", "call_to_action": true, "call_to_action_text": "", "map_as_image": false, "map_subdomains": "", "map_type": "osm:standard", "slides": [{"date": "", "location": {"line": true}, "media": {"caption": "", "credit": "", "url": ""}, "text": {"headline": "", "text": ""}, "type": "overview"}, {"date": "", "location": {"lat": 33.959768, "line": true, "lon": -83.376398, "zoom": 12}, "media": {"caption": "Every day I'm hustling.", "credit": "", "url": "https://absumanimi.github.io/_images/athens-georgia.jpg"}, "text": {"headline": "Athens, GA", "text": "This is Athens, GA<br>"}}], "zoomify": false}}
+{
+    "storymap": {
+        "attribution": "",
+        "call_to_action": true,
+        "call_to_action_text": "",
+        "map_as_image": false,
+        "map_subdomains": "",
+        "map_type": "osm:standard",
+        "slides": [
+            {
+                "date": "",
+                "location": {
+                    "line": true
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "",
+                    "url": ""
+                },
+                "text": {
+                    "headline": "",
+                    "text": ""
+                },
+                "type": "overview"
+            },
+            {
+                "date": "",
+                "location": {
+                    "lat": 33.959768,
+                    "line": true,
+                    "lon": -83.376398,
+                    "zoom": 12
+                },
+                "media": {
+                    "caption": "",
+                    "credit": "Everyday I'm hustling.",
+                    "url": "https://absumanimi.github.io/_images/athens-georgia.jpg"
+                },
+                "text": {
+                    "headline": "Athens, GA",
+                    "text": "This is Athens, GA<br>"
+                }
+            }
+        ],
+        "zoomify": false
+    }
+}
